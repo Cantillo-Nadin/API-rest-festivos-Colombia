@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: linear-gradient(to right, #ffcc00, #0033cc);
+  color: white;
+}
+
+#myDiv {
+  width: 80%;
+  margin: auto;
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+}
